@@ -1,0 +1,30 @@
+{
+    "name": "zero-ping-all-toolbox-patch100",
+	"title": "zero-ping-all-toolbox-patch100",
+	"author": "merusira",
+	"description": "Zero ping emulation for TERA servers running patch ~100.02.",
+    "version": "1.1.7",
+    "servers": ["https://raw.githubusercontent.com/merusira/Any_Toolbox_Zero_Ping_Emulation/master/"],
+    "supportUrl": "https://github.com/merusira/Any_Toolbox_Zero_Ping_Emulation/issues",
+    "options": {
+        "niceName": "zero-ping-all-toolbox-patch100",
+        "guiName": "zero-ping-all-toolbox-patch100",
+        "cliName": "zero-ping-all-toolbox-patch100",
+        "reloadable": true
+	},
+	"dependencies": {
+	       "library": "https://raw.githubusercontent.com/tera-private-toolbox/library/master/"
+	   },
+	"conflicts": [
+        "skill-prediction",
+        "ngsp",
+        "ngsp_100",
+        "ngsp_92",
+        "ping-remover",
+        "rival-patch34",
+		"rival-patch100",
+        "ping"
+    ],
+	"disableAutoUpdate": false,
+    "disabled": false
+}
