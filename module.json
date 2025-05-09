@@ -23,7 +23,8 @@
         "ping-remover",
         "rival-patch34",
 		"rival-patch100",
-        "ping"
+        "ping",
+		"backstabs-manager"
     ],
 	"disableAutoUpdate": false,
     "disabled": false
