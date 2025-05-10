@@ -13,7 +13,7 @@
         "reloadable": true
 	},
 	"dependencies": {
-	       "library": "https://raw.githubusercontent.com/tera-private-toolbox/library/master/"
+	       "library": "https://raw.githubusercontent.com/tera-private-toolbox/library/master/module.json"
 	   },
 	"conflicts": [
         "skill-prediction",
